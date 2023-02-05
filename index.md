@@ -34,10 +34,11 @@ I am a postdoctoral researcher at [Max Planck Institute for Informatics (MPI-INF
 I obtained my Ph.D. degree from [Multimedia Lab (MMLab)](http://mmlab.ie.cuhk.edu.hk/) of The Chinese University of Hong Kong (CUHK), supervised by [Prof. Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang) and [Prof. Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/). 
 Before that, I received my bachelor's degree from the Computer Science Honor Class of Harbin Institute Technology (HIT). 
 
-My research interests focus on computer vision and deep learning, especially the 3D scene understanding, object detection, motion prediction and autonomous driving / robotics related topics.
+My research interests focus on computer vision and machine learning, particularly in exploring machine learning for autonomous systems. This includes 3D scene understanding, object detection, motion prediction, knowledge transfer, and other topics related to autonomous driving and robotics.
 
 ## News
 <hr style="margin-top:-16px;margin-bottom:10px;" /> 
+* [2022/12] Achieved Excellence in Young Scientist Award of HKIS 2022.
 * [2022/10] One apper ([PV-RCNN++](https://arxiv.org/abs/2102.00463)) accepted by IJCV.
 * [2022/09] Three papers with one oral presentation accepted by NeurIPS 2022.
 * [2022/09] One paper (ST3D++) accepted by IEEE TPAMI.
@@ -83,6 +84,9 @@ PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/
 
 ## Awards
 <hr style="margin-top:-16px;margin-bottom:10px;" />
+
+* Achieved Excellence in [Young Scientist Award](http://www.science.org.hk/index.php?action=index) of HKIS 2022 (top two selected in Engineering Science in Hong Kong)
+
 * Champion of [Waymo Open Dataset Motion Prediction challenge](https://waymo.com/open/challenges/), 2022.
 
 * [World Artificial Intelligence Conference](https://www.worldaic.com.cn/newsdetail?uuid=0577d6d5c6f449abb8a4f7426f5d17da) Rising Star Award (17 selected world-wide), 2021.
@@ -160,8 +164,24 @@ PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/
 <hr style="margin-top:-16px;margin-bottom:10px;" />
 *: Equal Contribution &nbsp;&nbsp;&nbsp;&nbsp;   #: Corresponding Author
 
-<!-- **Selected Preprints:** -->
+**Selected Preprints:**
+* [DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)   
+Haiyang Wang, Chen Shi, <b>Shaoshuai Shi#</b>, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang#    
+arXiv:2301.06051, Technical Report, 2023.
 
+* [ConQueR: Query Contrast Voxel-DETR for 3D Object Detection](https://arxiv.org/abs/2212.07289)   
+Benjin Zhu, Zhe Wang, <b>Shaoshuai Shi</b>, Hang Xu, Lanqing Hong, Hongsheng Li   
+arXiv:2212.07289, Technical Report, 2022.
+
+
+**2023**
+
+* [Test Time Domain Adaptation for Monocular Depth Estimation]()   
+Zhi Li, <b>Shaoshuai Shi</b>, Bernt Schiele, Dengxin Dai  
+International Conference on Robotics and Automation (**ICRA**), 2023.
+
+
+**2022**
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/abs/2209.13508)  
 <b>Shaoshuai Shi</b>, Li Jiang, Dengxin Dai, Bernt Schiele  
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022.  <span style="color:red;">**[Oral]**</span>
@@ -180,13 +200,13 @@ Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 
 &nbsp;[[Code]](https://github.com/CVMI-Lab/SparseKD) &nbsp;<a href="https://github.com/CVMI-Lab/SparseKD"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/CVMI-Lab/SparseKD?style=social"> </a>  
 
 
-* [MTR-A: 1st Place Solution for 2022 Waymo Open Dataset Challenge--Motion Prediction](https://arxiv.org/abs/2209.10033)  
+* [MTR-A: 1st Place Solution for 2022 Waymo Open Dataset Challenge -- Motion Prediction](https://arxiv.org/abs/2209.10033)  
 <b>Shaoshuai Shi</b>, Li Jiang, Dengxin Dai, Bernt Schiele  
 Technical report of 1st place solution to Waymo Motion Prediction Challenge at Workshop on Autonomous Driving of CVPR 2022 (**CVPRW**), 2022.  
 <span style="color: #FF0000">Won the champion of Waymo Open Dataset Motion Prediction Challenge 2022 (June, 2022). </span>
 
 
-<!-- **2022:** -->
+
 * [MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection](https://arxiv.org/abs/2205.05979)  
 Xuesong Chen\*, <b>Shaoshuai Shi\*#</b>, Benjin Zhu, Ka Chun Cheung, Hang Xu, Hongsheng Li#  
 European Conference on Computer Vision (**ECCV**), 2022.
@@ -206,7 +226,15 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022.
 Jihan Yang, <b>Shaoshuai Shi</b>, Zhe Wang, Hongsheng Li, Xiaojuan Qi  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), accepted, 2022. (IF: 24.314)
 
-<!-- **2021:** -->
+
+**Before 2022:**
+<p style="margin-top:0px;margin-bottom:-8px;"></p>
+
+* [PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/abs/2102.00463)  
+<b>Shaoshuai Shi</b>, Li Jiang, Jiajun Deng, Zhe Wang, Chaoxu Guo, Jianping Shi, Xiaogang Wang, Hongsheng Li  
+International Journal of Computer Vision (**IJCV**), accepted. (IF: 13.369)
+ &nbsp;[[Code]](https://github.com/open-mmlab/OpenPCDet) &nbsp;<a href="https://github.com/open-mmlab/OpenPCDet"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/open-mmlab/OpenPCDet?style=social"> </a>
+
 * [LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector](https://arxiv.org/abs/2108.08258)  
 Xiaoyang Guo, <b>Shaoshuai Shi</b>, Xiaogang Wang, Hongsheng Li  
 International Conference on Computer Vision (**ICCV**), 2021. 
@@ -217,12 +245,6 @@ International Conference on Computer Vision (**ICCV**), 2021.
 Li Jiang, <b>Shaoshuai Shi</b>, Zhuotao Tian, Xin Lai, Shu Liu, Chi-Wing Fu, Jiaya Jia  
 International Conference on Computer Vision (**ICCV**), 2021. 
 
-
-
-* [PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/abs/2102.00463)  
-<b>Shaoshuai Shi</b>, Li Jiang, Jiajun Deng, Zhe Wang, Chaoxu Guo, Jianping Shi, Xiaogang Wang, Hongsheng Li  
-International Journal of Computer Vision (**IJCV**), accepted. (IF: 13.369)
- &nbsp;[[Code]](https://github.com/open-mmlab/OpenPCDet) &nbsp;<a href="https://github.com/open-mmlab/OpenPCDet"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/open-mmlab/OpenPCDet?style=social"> </a>
 
 
 * [ST3D: Self-training for Unsupervised Domain Adaptation on 3D Object Detection](https://arxiv.org/abs/2103.05346)  
@@ -242,7 +264,7 @@ AAAI Conference on Artiﬁcial Intelligence (**AAAI**), 2021.
 &nbsp;[[Code]](https://github.com/djiajunustc/Voxel-R-CNN) &nbsp;<a href="https://github.com/djiajunustc/Voxel-R-CNN"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/djiajunustc/Voxel-R-CNN?style=social"> </a> 
 
 
-<!-- **2020** -->
+
 * [The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges](https://arxiv.org/abs/2008.12599)  
 <b>Shaoshuai Shi</b>, Chaoxu Guo, Jihan Yang, Hongsheng Li  
 Technical report of top-performing LiDAR-only solutions to Waymo Open Dataset Challenges at Workshop on Autonomous Driving of CVPR 2020 (**CVPRW**), 2020. 
@@ -277,7 +299,6 @@ Hongwei Yi, <b>Shaoshuai Shi</b>, Mingyu Ding, Jiankai Sun, Kui Xu, Hui Zhou, Zh
 International Conference on Robotics and Automation (**ICRA**), 2020.
 
 
-<!-- **Before 2020** -->
 
 * [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/abs/1812.04244)  
  <b>Shaoshuai Shi</b>, Xiaogang Wang, Hongsheng Li  
@@ -368,10 +389,10 @@ Advised by Prof. Ningyi Xu.
 
 <hr />
 
-<div style="margin:10px auto;height: 150px; pointer-events: none;">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=1daeff&w=480&t=tt&d=dna1gh75RFxuLTLMZdN7u5SSyiCEmnOtvSjR75TKtTQ&ct=858585&co=ffffff&cmn=1bff1b"></script>
+<div style="margin:10px auto;height: 80px; pointer-events: none;">
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=1daeff&w=360&t=tt&d=dna1gh75RFxuLTLMZdN7u5SSyiCEmnOtvSjR75TKtTQ&ct=858585&co=ffffff&cmn=1bff1b"></script>
 </div>
 <br/>
 <hr style="margin-top:80px;margin-bottom:10px;" />
 
-<center>© Shaoshuai Shi, 2019 - 2022</center>
+<center>© Shaoshuai Shi, 2019 - 2023</center>
