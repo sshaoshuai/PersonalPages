@@ -165,6 +165,8 @@ PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/
 *: Equal Contribution &nbsp;&nbsp;&nbsp;&nbsp;   #: Corresponding Author
 
 **Selected Preprints:**
+<p style="margin-top:0px;margin-bottom:-8px;"></p>
+
 * [DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)   
 Haiyang Wang, Chen Shi, <b>Shaoshuai Shi#</b>, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang#    
 arXiv:2301.06051, Technical Report, 2023.
@@ -174,14 +176,15 @@ Benjin Zhu, Zhe Wang, <b>Shaoshuai Shi</b>, Hang Xu, Lanqing Hong, Hongsheng Li
 arXiv:2212.07289, Technical Report, 2022.
 
 
-**2023**
+**Publication List:**
+<p style="margin-top:0px;margin-bottom:-8px;"></p>
 
 * [Test Time Domain Adaptation for Monocular Depth Estimation]()   
 Zhi Li, <b>Shaoshuai Shi</b>, Bernt Schiele, Dengxin Dai  
 International Conference on Robotics and Automation (**ICRA**), 2023.
 
 
-**2022**
+<!-- **2022** -->
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/abs/2209.13508)  
 <b>Shaoshuai Shi</b>, Li Jiang, Dengxin Dai, Bernt Schiele  
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022.  <span style="color:red;">**[Oral]**</span>
@@ -203,7 +206,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 
 * [MTR-A: 1st Place Solution for 2022 Waymo Open Dataset Challenge -- Motion Prediction](https://arxiv.org/abs/2209.10033)  
 <b>Shaoshuai Shi</b>, Li Jiang, Dengxin Dai, Bernt Schiele  
 Technical report of 1st place solution to Waymo Motion Prediction Challenge at Workshop on Autonomous Driving of CVPR 2022 (**CVPRW**), 2022.  
-<span style="color: #FF0000">Won the champion of Waymo Open Dataset Motion Prediction Challenge 2022 (June, 2022). </span>
+<span style="color: #FF0000">Won the Championship of Waymo Open Dataset Motion Prediction Challenge 2022 (June, 2022). </span>
 
 
 
@@ -227,12 +230,12 @@ Jihan Yang, <b>Shaoshuai Shi</b>, Zhe Wang, Hongsheng Li, Xiaojuan Qi
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), accepted, 2022. (IF: 24.314)
 
 
-**Before 2022:**
+<!-- **Before 2022:** -->
 <p style="margin-top:0px;margin-bottom:-8px;"></p>
 
 * [PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/abs/2102.00463)  
 <b>Shaoshuai Shi</b>, Li Jiang, Jiajun Deng, Zhe Wang, Chaoxu Guo, Jianping Shi, Xiaogang Wang, Hongsheng Li  
-International Journal of Computer Vision (**IJCV**), accepted. (IF: 13.369)
+International Journal of Computer Vision (**IJCV**), accepted, 2022. (IF: 13.369)
  &nbsp;[[Code]](https://github.com/open-mmlab/OpenPCDet) &nbsp;<a href="https://github.com/open-mmlab/OpenPCDet"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/open-mmlab/OpenPCDet?style=social"> </a>
 
 * [LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector](https://arxiv.org/abs/2108.08258)  
@@ -268,7 +271,9 @@ AAAI Conference on Artiﬁcial Intelligence (**AAAI**), 2021.
 * [The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges](https://arxiv.org/abs/2008.12599)  
 <b>Shaoshuai Shi</b>, Chaoxu Guo, Jihan Yang, Hongsheng Li  
 Technical report of top-performing LiDAR-only solutions to Waymo Open Dataset Challenges at Workshop on Autonomous Driving of CVPR 2020 (**CVPRW**), 2020. 
-&nbsp;[[Code]](https://github.com/open-mmlab/OpenPCDet) &nbsp;<a href="https://github.com/open-mmlab/OpenPCDet"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/open-mmlab/OpenPCDet?style=social"> </a> 
+&nbsp;[[Code]](https://github.com/open-mmlab/OpenPCDet) &nbsp;<a href="https://github.com/open-mmlab/OpenPCDet"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/open-mmlab/OpenPCDet?style=social"> </a>   
+<span style="color: #FF0000">Won 1st place among all LiDAR-only methods / 2nd  place among all methods on 3D detection, 3D tracking and domain adaptation three tracks of the Waymo Open Dataset Challenges 2020 (June, 2020).</span>
+
 
 
 * [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/abs/1912.13192)  
