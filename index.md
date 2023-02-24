@@ -38,6 +38,7 @@ My research interests focus on computer vision and machine learning, particularl
 
 ## News
 <hr style="margin-top:-16px;margin-bottom:10px;" /> 
+* [2023/02] We release the [MTR codebase](https://github.com/sshaoshuai/MTR), which can achieve SoTA results on Waymo Motion Prediction dataset.
 * [2022/12] Achieved Excellence in Young Scientist Award of HKIS 2022.
 * [2022/10] One apper ([PV-RCNN++](https://arxiv.org/abs/2102.00463)) accepted by IJCV.
 * [2022/09] Three papers with one oral presentation accepted by NeurIPS 2022.
