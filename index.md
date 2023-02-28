@@ -38,6 +38,7 @@ My research interests focus on computer vision and machine learning, particularl
 
 ## News
 <hr style="margin-top:-16px;margin-bottom:10px;" /> 
+* [2023/02] Four papers accepted by CVPR 2023.
 * [2023/02] We release the [MTR codebase](https://github.com/sshaoshuai/MTR), which can achieve SoTA results on Waymo Motion Prediction dataset.
 * [2022/12] Achieved Excellence in Young Scientist Award of HKIS 2022.
 * [2022/10] One apper ([PV-RCNN++](https://arxiv.org/abs/2102.00463)) accepted by IJCV.
@@ -165,20 +166,24 @@ PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/
 <hr style="margin-top:-16px;margin-bottom:10px;" />
 *: Equal Contribution &nbsp;&nbsp;&nbsp;&nbsp;   #: Corresponding Author
 
-**Selected Preprints:**
+<!-- **Selected Preprints:** -->
 <p style="margin-top:0px;margin-bottom:-8px;"></p>
 
-* [DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)   
-Haiyang Wang, Chen Shi, <b>Shaoshuai Shi#</b>, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang#    
-arXiv:2301.06051, Technical Report, 2023.
-
-* [ConQueR: Query Contrast Voxel-DETR for 3D Object Detection](https://arxiv.org/abs/2212.07289)   
-Benjin Zhu, Zhe Wang, <b>Shaoshuai Shi</b>, Hang Xu, Lanqing Hong, Hongsheng Li   
-arXiv:2212.07289, Technical Report, 2022.
 
 
 **Publication List:**
 <p style="margin-top:0px;margin-bottom:-8px;"></p>
+
+* [DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)   
+Haiyang Wang\*, Chen Shi\*, <b>Shaoshuai Shi#</b>, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang#    
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023. 
+<!-- &nbsp;[[Code (ongoing)]](https://github.com/Haiyang-W/DSVT) &nbsp;<a href="https://github.com/Haiyang-W/DSVT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/DSVT?style=social"> </a>   -->
+
+* [ConQueR: Query Contrast Voxel-DETR for 3D Object Detection](https://arxiv.org/abs/2212.07289)   
+Benjin Zhu, Zhe Wang, <b>Shaoshuai Shi</b>, Hang Xu, Lanqing Hong, Hongsheng Li   
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023. 
+<!-- &nbsp;[[Code (ongoing)]](https://github.com/poodarchu/ConQueR) &nbsp;<a href="https://github.com/poodarchu/ConQueR"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/poodarchu/ConQueR?style=social"> </a>   -->
+
 
 * [Test Time Domain Adaptation for Monocular Depth Estimation]()   
 Zhi Li, <b>Shaoshuai Shi</b>, Bernt Schiele, Dengxin Dai  
@@ -189,7 +194,7 @@ International Conference on Robotics and Automation (**ICRA**), 2023.
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/abs/2209.13508)  
 <b>Shaoshuai Shi</b>, Li Jiang, Dengxin Dai, Bernt Schiele  
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022.  <span style="color:red;">**[Oral]**</span>
-&nbsp;[[Code (ongoing)]](https://github.com/sshaoshuai/MTR) &nbsp;<a href="https://github.com/sshaoshuai/MTR"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/sshaoshuai/MTR?style=social"> </a>  
+&nbsp;[[Code]](https://github.com/sshaoshuai/MTR) &nbsp;<a href="https://github.com/sshaoshuai/MTR"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/sshaoshuai/MTR?style=social"> </a>  
 <span style="color: #FF0000">Ranked 1st place on Waymo motion prediction and interaction prediction two leaderboards (May, 2022). </span>
 
 
