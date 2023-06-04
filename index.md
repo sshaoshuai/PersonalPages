@@ -38,6 +38,7 @@ My research interests focus on computer vision and machine learning, particularl
 
 ## News
 <hr style="margin-top:-16px;margin-bottom:10px;" /> 
+* [2023/05] Our approach MTR++ won the championship of [Waymo Open Dataset Motion Prediction Challenge 2023](https://waymo.com/open/challenges/2023/motion-prediction/). More details will be released soon.
 * [2023/02] Four papers accepted by CVPR 2023.
 * [2023/02] We release the [MTR codebase](https://github.com/sshaoshuai/MTR), which can achieve SoTA results on Waymo Motion Prediction dataset.
 * [2022/12] Achieved Excellence in Young Scientist Award of HKIS 2022.
@@ -174,15 +175,24 @@ PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/
 **Publication List:**
 <p style="margin-top:0px;margin-bottom:-8px;"></p>
 
+
+* [Self-supervised Pre-training with Masked Shape Prediction for 3D Scene Understanding](https://arxiv.org/abs/2305.05026)   
+Li Jiang, Zetong Yang, <b>Shaoshuai Shi</b>, Vladislav Golyanik, Dengxin Dai, Bernt Schiele   
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023. 
+
+* [Virtual Sparse Convolution for Multimodal 3D Object Detection](https://arxiv.org/abs/2303.02314)   
+Hai Wu, Chenglu Wen, <b>Shaoshuai Shi</b>, Xin Li, Cheng Wang   
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023. 
+
 * [DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)   
 Haiyang Wang\*, Chen Shi\*, <b>Shaoshuai Shi#</b>, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang#    
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023. 
-<!-- &nbsp;[[Code (ongoing)]](https://github.com/Haiyang-W/DSVT) &nbsp;<a href="https://github.com/Haiyang-W/DSVT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/DSVT?style=social"> </a>   -->
+&nbsp;[[Code]](https://github.com/Haiyang-W/DSVT) &nbsp;<a href="https://github.com/Haiyang-W/DSVT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/DSVT?style=social"> </a>  
 
 * [ConQueR: Query Contrast Voxel-DETR for 3D Object Detection](https://arxiv.org/abs/2212.07289)   
 Benjin Zhu, Zhe Wang, <b>Shaoshuai Shi</b>, Hang Xu, Lanqing Hong, Hongsheng Li   
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023. 
-<!-- &nbsp;[[Code (ongoing)]](https://github.com/poodarchu/ConQueR) &nbsp;<a href="https://github.com/poodarchu/ConQueR"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/poodarchu/ConQueR?style=social"> </a>   -->
+&nbsp;[[Code]](https://github.com/poodarchu/ConQueR) &nbsp;<a href="https://github.com/poodarchu/ConQueR"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/poodarchu/ConQueR?style=social"> </a>  
 
 
 * [Test Time Domain Adaptation for Monocular Depth Estimation]()   
@@ -201,6 +211,8 @@ Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 
 * [CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds](https://arxiv.org/abs/2210.04264)  
 Haiyang Wang\*, Lihe Ding\*, Shaocong Dong, <b>Shaoshuai Shi#</b>, Aoxue Li, Jianan Li, Zhenguo Li, Liwei Wang#   
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022.
+&nbsp;[[Code]](https://github.com/Haiyang-W/CAGroup3D) &nbsp;<a href="https://github.com/Haiyang-W/CAGroup3D"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/CAGroup3D?style=social"> </a> 
+
 	
 
 * [Towards Efficient 3D Object Detection with Knowledge Distillation](https://arxiv.org/abs/2205.15156)  
@@ -213,7 +225,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 
 <b>Shaoshuai Shi</b>, Li Jiang, Dengxin Dai, Bernt Schiele  
 Technical report of 1st place solution to Waymo Motion Prediction Challenge at Workshop on Autonomous Driving of CVPR 2022 (**CVPRW**), 2022.  
 <span style="color: #FF0000">Won the Championship of Waymo Open Dataset Motion Prediction Challenge 2022 (June, 2022). </span>
-
+&nbsp;[[Code]](https://github.com/sshaoshuai/MTR) &nbsp;<a href="https://github.com/sshaoshuai/MTR"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/sshaoshuai/MTR?style=social"> </a>  
 
 
 * [MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection](https://arxiv.org/abs/2205.05979)  
@@ -234,6 +246,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022.
 * [ST3D++: Self-training for Unsupervised Domain Adaptation on 3D Object Detection](https://arxiv.org/abs/2108.06682)  
 Jihan Yang, <b>Shaoshuai Shi</b>, Zhe Wang, Hongsheng Li, Xiaojuan Qi  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), accepted, 2022. (IF: 24.314)
+&nbsp;[[Code]](https://github.com/CVMI-Lab/ST3D) &nbsp;<a href="https://github.com/CVMI-Lab/ST3D"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/CVMI-Lab/ST3D?style=social"> </a> 
 
 
 <!-- **Before 2022:** -->
@@ -253,6 +266,7 @@ International Conference on Computer Vision (**ICCV**), 2021.
 * [Guided Point Contrastive Learning for Semi-Supervised Point Cloud Semantic Segmentation](https://arxiv.org/abs/2110.08188)  
 Li Jiang, <b>Shaoshuai Shi</b>, Zhuotao Tian, Xin Lai, Shu Liu, Chi-Wing Fu, Jiaya Jia  
 International Conference on Computer Vision (**ICCV**), 2021. 
+&nbsp;[[Code]](https://github.com/llijiang/GuidedContrast) &nbsp;<a href="https://github.com/llijiang/GuidedContrast"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/llijiang/GuidedContrast?style=social"> </a> 
 
 
 
