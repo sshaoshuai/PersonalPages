@@ -38,7 +38,7 @@ My research interests focus on computer vision and machine learning, particularl
 
 ## News
 <hr style="margin-top:-16px;margin-bottom:10px;" /> 
-* [2023/05] Our approach MTR++ won the championship of [Waymo Open Dataset Motion Prediction Challenge 2023](https://waymo.com/open/challenges/2023/motion-prediction/). More details will be released soon.
+* [2023/05] Our approach MTR++ won the championship of [Waymo Open Dataset Motion Prediction Challenge 2023](https://waymo.com/open/challenges/2023/motion-prediction/). Please refer to our paper [MTR++](https://arxiv.org/abs/2306.17770) for more details.
 * [2023/02] Four papers accepted by CVPR 2023.
 * [2023/02] We release the [MTR codebase](https://github.com/sshaoshuai/MTR), which can achieve SoTA results on Waymo Motion Prediction dataset.
 * [2022/12] Achieved Excellence in Young Scientist Award of HKIS 2022.
@@ -87,6 +87,7 @@ PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/
 
 ## Awards
 <hr style="margin-top:-16px;margin-bottom:10px;" />
+* Champion of [Waymo Open Dataset Motion Prediction challenge](https://waymo.com/open/challenges/), 2023.
 
 * Achieved Excellence in [Young Scientist Award](http://www.science.org.hk/index.php?action=index) of HKIS 2022 (top two selected in Engineering Science in Hong Kong)
 
@@ -167,14 +168,18 @@ PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/
 <hr style="margin-top:-16px;margin-bottom:10px;" />
 *: Equal Contribution &nbsp;&nbsp;&nbsp;&nbsp;   #: Corresponding Author
 
-<!-- **Selected Preprints:** -->
+**Selected Preprints:**
 <p style="margin-top:0px;margin-bottom:-8px;"></p>
 
+
+* [MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying](https://arxiv.org/abs/2306.17770)  
+<b>Shaoshuai Shi\*</b>, Li Jiang\*, Dengxin Dai, Bernt Schiele  
+arXiv:2306.17770, Technical Report, 2023.  
+<span style="color: #FF0000">Won the Championship of Waymo Open Dataset Motion Prediction Challenge 2022 (May, 2023). </span>
 
 
 **Publication List:**
 <p style="margin-top:0px;margin-bottom:-8px;"></p>
-
 
 * [Self-supervised Pre-training with Masked Shape Prediction for 3D Scene Understanding](https://arxiv.org/abs/2305.05026)   
 Li Jiang, Zetong Yang, <b>Shaoshuai Shi</b>, Vladislav Golyanik, Dengxin Dai, Bernt Schiele   
@@ -194,6 +199,9 @@ Benjin Zhu, Zhe Wang, <b>Shaoshuai Shi</b>, Hang Xu, Lanqing Hong, Hongsheng Li
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023. 
 &nbsp;[[Code]](https://github.com/poodarchu/ConQueR) &nbsp;<a href="https://github.com/poodarchu/ConQueR"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/poodarchu/ConQueR?style=social"> </a>  
 
+* [3D Object Detection for Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2206.09474)  
+Jiageng Mao, <b>Shaoshuai Shi</b>, Xiaogang Wang, Hongsheng Li  
+International Journal of Computer Vision (**IJCV**), accepted, 2023. (IF: 13.369)
 
 * [Test Time Domain Adaptation for Monocular Depth Estimation]()   
 Zhi Li, <b>Shaoshuai Shi</b>, Bernt Schiele, Dengxin Dai  
@@ -239,8 +247,6 @@ European Conference on Computer Vision (**ECCV**), 2022.
 Haiyang Wang, <b>Shaoshuai Shi# </b>, Ze Yang, Rongyao Fang, Qi Qian, Hongsheng Li, Bernt Schiele, Liwei Wang  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022. 
 &nbsp;[[Code]](https://github.com/Haiyang-W/RBGNet) &nbsp; <a href="https://github.com/Haiyang-W/RBGNet"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/RBGNet?style=social"> </a> 
-
-
 
 
 * [ST3D++: Self-training for Unsupervised Domain Adaptation on 3D Object Detection](https://arxiv.org/abs/2108.06682)  
