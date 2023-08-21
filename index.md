@@ -38,6 +38,7 @@ My research interests focus on computer vision and machine learning, particularl
 
 ## News
 <hr style="margin-top:-16px;margin-bottom:10px;" /> 
+* [2023/07] Three papers accepted by ICCV 2023.
 * [2023/05] Our approach MTR++ won the championship of [Waymo Open Dataset Motion Prediction Challenge 2023](https://waymo.com/open/challenges/2023/motion-prediction/). Please refer to our paper [MTR++](https://arxiv.org/abs/2306.17770) for more details.
 * [2023/02] Four papers accepted by CVPR 2023.
 * [2023/02] We release the [MTR codebase](https://github.com/sshaoshuai/MTR), which can achieve SoTA results on Waymo Motion Prediction dataset.
@@ -180,6 +181,22 @@ arXiv:2306.17770, Technical Report, 2023.
 
 **Publication List:**
 <p style="margin-top:0px;margin-bottom:-8px;"></p>
+
+
+* [UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation](https://arxiv.org/abs/2308.07732)  
+Haiyang Wang\*, Hao Tang\*, <b>Shaoshuai Shi#</b>, Aoxue Li, Zhenguo Li, Bernt Schiele, Liwei Wang#  
+International Conference on Computer Vision (**ICCV**), 2023. 
+&nbsp;[[Code]](https://github.com/Haiyang-W/UniTR) &nbsp;<a href="https://github.com/Haiyang-W/UniTR"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/UniTR?style=social"> </a> 
+
+* [TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses](https://arxiv.org/abs/2306.05888)  
+Xuesong Chen, <b>Shaoshuai Shi#</b>, Chao Zhang, Benjin Zhu, Qiang Wang, Ka Chun Cheung, Simon See, Hongsheng Li#  
+International Conference on Computer Vision (**ICCV**), 2023. 
+&nbsp;[[Code]](https://github.com/poodarchu/EFG) &nbsp;<a href="https://github.com/poodarchu/EFG"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/poodarchu/EFG?style=social"> </a> 
+
+* [CoIn: Contrastive Instance Feature Mining for Outdoor 3D Object Detection with Very Limited Annotations]()  
+Qiming Xia, Jinhao Deng, Chenglu Wen, Shaoshuai Shi, Xin Li, Cheng Wang  
+International Conference on Computer Vision (**ICCV**), 2023. 
+
 
 * [Self-supervised Pre-training with Masked Shape Prediction for 3D Scene Understanding](https://arxiv.org/abs/2305.05026)   
 Li Jiang, Zetong Yang, <b>Shaoshuai Shi</b>, Vladislav Golyanik, Dengxin Dai, Bernt Schiele   
