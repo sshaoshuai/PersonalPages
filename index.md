@@ -8,9 +8,10 @@ layout: default
     <td width="60%" valign="middle">
         <h1 style="margin-top:18px;margin-bottom:36px;">Shaoshuai Shi</h1>
         <p style="font-size:18px; color:#000">
-	        <b>Postdoctoral Researcher</b> <br />
-            <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning">Department of Computer Vision and Machine Learning</a>  <br />
-	        <a href="https://www.mpi-inf.mpg.de/home/">Max Planck Institute for Informatics</a>
+	        <b><s>Postdoctoral Researcher</s></b> <br />
+            <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning"><s>Department of Computer Vision and Machine Learning</s></a>  <br />
+	        <a href="https://www.mpi-inf.mpg.de/home/"><s>Max Planck Institute for Informatics></s></a> <br /><br />
+            <b>Researcher @ AI Research</b>, DiDi Autonomous Driving
             <br><br>
             Email: shaoshuaics [at] gmail [dot] com
             <!-- Office: E14-613, MPI-INF, Saarland Informatics Campus -->
@@ -30,14 +31,18 @@ layout: default
 
 ## About Me
 <hr style="margin-top:-16px;margin-bottom:10px;" />
-I am a postdoctoral researcher at [Max Planck Institute for Informatics (MPI-INF)](https://www.mpi-inf.mpg.de/home/), working with [Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele). 
+I was a researcher at [Max Planck Institute for Informatics (MPI-INF)](https://www.mpi-inf.mpg.de/home/), working with [Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele). 
 I obtained my Ph.D. degree from [Multimedia Lab (MMLab)](http://mmlab.ie.cuhk.edu.hk/) of The Chinese University of Hong Kong (CUHK), supervised by [Prof. Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang) and [Prof. Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/). 
 Before that, I received my bachelor's degree from the Computer Science Honor Class of Harbin Institute Technology (HIT). 
 
 My research interests focus on computer vision and machine learning, particularly in exploring machine learning for autonomous systems. This includes 3D scene understanding, object detection, motion prediction, knowledge transfer, and other topics related to autonomous driving and robotics.
 
+I am currently building an AI research team at DiDi Autonomous Driving, dedicated to applying cutting-edge AI technologies in achieving L4-level self-driving cars. <br/>
+<span style="color: #FF0000"><b>[Hiring]</b> We are seeking talents for both <b>full-time positions</b> and <b>research internships</b> throughout the year. If you are interested in working with us, please feel free to send me an email.</span> 
+
 ## News
 <hr style="margin-top:-16px;margin-bottom:10px;" /> 
+* [2024/01] One paper (MTR++) accepted by IEEE TPAMI.
 * [2023/07] Three papers accepted by ICCV 2023.
 * [2023/05] Our approach MTR++ won the championship of [Waymo Open Dataset Motion Prediction Challenge 2023](https://waymo.com/open/challenges/2023/motion-prediction/). Please refer to our paper [MTR++](https://arxiv.org/abs/2306.17770) for more details.
 * [2023/02] Four papers accepted by CVPR 2023.
@@ -169,18 +174,18 @@ PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/
 <hr style="margin-top:-16px;margin-bottom:10px;" />
 *: Equal Contribution &nbsp;&nbsp;&nbsp;&nbsp;   #: Corresponding Author
 
-**Selected Preprints:**
-<p style="margin-top:0px;margin-bottom:-8px;"></p>
-
-
-* [MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying](https://arxiv.org/abs/2306.17770)  
-<b>Shaoshuai Shi\*</b>, Li Jiang\*, Dengxin Dai, Bernt Schiele  
-arXiv:2306.17770, Technical Report, 2023.  
-<span style="color: #FF0000">Won the Championship of Waymo Open Dataset Motion Prediction Challenge 2022 (May, 2023). </span>
+<!-- **Selected Preprints:**
+<p style="margin-top:0px;margin-bottom:-8px;"></p> -->
 
 
 **Publication List:**
 <p style="margin-top:0px;margin-bottom:-8px;"></p>
+
+
+* [MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying](https://arxiv.org/abs/2306.17770)  
+<b>Shaoshuai Shi\*</b>, Li Jiang\*#, Dengxin Dai, Bernt Schiele  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), accepted, 2024. (IF: 24.314)
+<span style="color: #FF0000">Won the Championship of Waymo Open Dataset Motion Prediction Challenge 2022 (May, 2023). </span>
 
 
 * [UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation](https://arxiv.org/abs/2308.07732)  
@@ -380,7 +385,7 @@ IEEE Field-Programmable Custom Computing Machines (**FCCM**), 2017.
 ## Experience
 <hr style="margin-top:-16px;margin-bottom:10px;" />
 
-* Postdoc Researcher, Oct 2021 - Present, Max Planck Institute for Informatics, Germany.  
+* Postdoc Researcher, Oct 2021 - Nov 2023, Max Planck Institute for Informatics, Germany.  
 Advised by Prof. Bernt Schiele.
 
 * Research Intern, Mar 2019 - Feb 2021, Autonomous Driving Group of SenseTime, Shenzhen, China.  
