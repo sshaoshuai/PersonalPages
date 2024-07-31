@@ -8,9 +8,6 @@ layout: default
     <td width="60%" valign="middle">
         <h1 style="margin-top:18px;margin-bottom:36px;">Shaoshuai Shi</h1>
         <p style="font-size:18px; color:#000">
-	        <b><s>Postdoctoral Researcher</s></b> <br />
-            <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning"><s>Department of Computer Vision and Machine Learning</s></a>  <br />
-	        <a href="https://www.mpi-inf.mpg.de/home/"><s>Max Planck Institute for Informatics></s></a> <br /><br />
             <b>Researcher @ AI Research</b>, DiDi Autonomous Driving
             <br><br>
             Email: shaoshuaics [at] gmail [dot] com
@@ -38,10 +35,12 @@ Before that, I received my bachelor's degree from the Computer Science Honor Cla
 My research interests focus on computer vision and machine learning, particularly in exploring machine learning for autonomous systems. This includes 3D scene understanding, object detection, motion prediction, knowledge transfer, and other topics related to autonomous driving and robotics.
 
 I am currently building an AI research team at DiDi Autonomous Driving, dedicated to applying cutting-edge AI technologies in achieving L4-level self-driving cars. <br/>
+
 <span style="color: #FF0000"><b>[Hiring]</b> We are seeking talents for both <b>full-time positions</b> and <b>research internships</b> throughout the year. If you are interested in working with us, please feel free to send me an email.</span> 
 
 ## News
 <hr style="margin-top:-16px;margin-bottom:10px;" /> 
+* [2023/06] Our approach MTR v3 won the championship of [Waymo Open Dataset Motion Prediction Challenge 2024](https://waymo.com/open/challenges/). Please refer to our technical report [MTR v3](https://storage.googleapis.com/waymo-uploads/files/research/2024%20Technical%20Reports/2024%20WOD%20Motion%20Prediction%20Challenge%20-%201st%20Place%20-%20MTR%20v3.pdf) for more details.
 * [2024/01] One paper (MTR++) accepted by IEEE TPAMI.
 * [2023/07] Three papers accepted by ICCV 2023.
 * [2023/05] Our approach MTR++ won the championship of [Waymo Open Dataset Motion Prediction Challenge 2023](https://waymo.com/open/challenges/2023/motion-prediction/). Please refer to our paper [MTR++](https://arxiv.org/abs/2306.17770) for more details.
@@ -93,6 +92,8 @@ PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/
 
 ## Awards
 <hr style="margin-top:-16px;margin-bottom:10px;" />
+* Champion of [Waymo Open Dataset Motion Prediction challenge](https://waymo.com/open/challenges/), 2024.
+
 * Champion of [Waymo Open Dataset Motion Prediction challenge](https://waymo.com/open/challenges/), 2023.
 
 * Achieved Excellence in [Young Scientist Award](http://www.science.org.hk/index.php?action=index) of HKIS 2022 (top two selected in Engineering Science in Hong Kong)
@@ -180,6 +181,15 @@ PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/
 
 **Publication List:**
 <p style="margin-top:0px;margin-bottom:-8px;"></p>
+
+* [GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://arxiv.org/abs/2403.09394)  
+Haiyang Wang\*, Hao Tang\*, Li Jiang, <b>Shaoshuai Shi</b>, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang  
+European Conference on Computer Vision (**ECCV**), 2024.
+
+
+* [Open-Vocabulary 3D Semantic Segmentation with Foundation Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_Open-Vocabulary_3D_Semantic_Segmentation_with_Foundation_Models_CVPR_2024_paper.pdf)   
+Li Jiang, <b>Shaoshuai Shi</b>, Bernt Schiele   
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. 
 
 
 * [MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying](https://arxiv.org/abs/2306.17770)  
