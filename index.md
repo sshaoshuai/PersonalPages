@@ -40,7 +40,7 @@ I am currently building an AI research team at DiDi Autonomous Driving, dedicate
 
 ## News
 <hr style="margin-top:-16px;margin-bottom:10px;" /> 
-* [2023/06] Our approach MTR v3 won the championship of [Waymo Open Dataset Motion Prediction Challenge 2024](https://waymo.com/open/challenges/). Please refer to our technical report [MTR v3](https://storage.googleapis.com/waymo-uploads/files/research/2024%20Technical%20Reports/2024%20WOD%20Motion%20Prediction%20Challenge%20-%201st%20Place%20-%20MTR%20v3.pdf) for more details.
+* [2024/06] Our approach MTR v3 won the championship of [Waymo Open Dataset Motion Prediction Challenge 2024](https://waymo.com/open/challenges/). Please refer to our technical report [MTR v3](https://storage.googleapis.com/waymo-uploads/files/research/2024%20Technical%20Reports/2024%20WOD%20Motion%20Prediction%20Challenge%20-%201st%20Place%20-%20MTR%20v3.pdf) for more details.
 * [2024/01] One paper (MTR++) accepted by IEEE TPAMI.
 * [2023/07] Three papers accepted by ICCV 2023.
 * [2023/05] Our approach MTR++ won the championship of [Waymo Open Dataset Motion Prediction Challenge 2023](https://waymo.com/open/challenges/2023/motion-prediction/). Please refer to our paper [MTR++](https://arxiv.org/abs/2306.17770) for more details.
